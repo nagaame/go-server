@@ -35,7 +35,7 @@ require (
 	github.com/markbates/goth v1.64.1
 	github.com/markbates/pkger v0.17.0
 	github.com/mattn/go-isatty v0.0.12 // indirect
-	github.com/mitchellh/mapstructure v1.3.1
+	github.com/mitchellh/mapstructure v1.3.2
 	github.com/moul/http2curl v1.0.0 // indirect
 	github.com/nsqio/go-nsq v1.0.8
 	github.com/sec51/convert v0.0.0-20190309075348-ebe586d87951 // indirect
